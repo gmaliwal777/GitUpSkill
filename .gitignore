@@ -1,0 +1,11 @@
+# ignore mac os files
+*.DS_Store
+
+# ignore breakpoint file
+*.xcbkptlist
+
+# ignore pod files
+Pods/
+
+# ignore user state file
+*.xcuserstate
