@@ -9,3 +9,7 @@ Pods/
 
 # ignore user state file
 *.xcuserstate
+
+*xcshareddata*
+
+*.xcuserdatad
