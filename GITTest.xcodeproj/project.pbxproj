@@ -12,6 +12,7 @@
 		9A0D2B5B24C4A86A002A22DB /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0D2B5A24C4A86A002A22DB /* ThirdViewController.swift */; };
 		9AB307BE24F26891008B0135 /* Feature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307BD24F26891008B0135 /* Feature1.swift */; };
 		9AB307C024F26CBF008B0135 /* Subfeature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307BF24F26CBF008B0135 /* Subfeature1.swift */; };
+		9AB307C224F272FC008B0135 /* feature2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307C124F272FC008B0135 /* feature2.swift */; };
 		B595F06D212D245D00248A71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B595F06C212D245D00248A71 /* AppDelegate.swift */; };
 		B595F06F212D245D00248A71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B595F06E212D245D00248A71 /* ViewController.swift */; };
 		B595F072212D245D00248A71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B595F070212D245D00248A71 /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 		9A0D2B5A24C4A86A002A22DB /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		9AB307BD24F26891008B0135 /* Feature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feature1.swift; sourceTree = "<group>"; };
 		9AB307BF24F26CBF008B0135 /* Subfeature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subfeature1.swift; sourceTree = "<group>"; };
+		9AB307C124F272FC008B0135 /* feature2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature2.swift; sourceTree = "<group>"; };
 		B595F069212D245D00248A71 /* GITTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GITTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B595F06C212D245D00248A71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B595F06E212D245D00248A71 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				B595F06E212D245D00248A71 /* ViewController.swift */,
 				9A0D2B5624C4A768002A22DB /* FirstViewController.swift */,
 				9AB307BD24F26891008B0135 /* Feature1.swift */,
+				9AB307C124F272FC008B0135 /* feature2.swift */,
 				9AB307BF24F26CBF008B0135 /* Subfeature1.swift */,
 				9A0D2B5824C4A791002A22DB /* SecondViewController.swift */,
 				9A0D2B5A24C4A86A002A22DB /* ThirdViewController.swift */,
@@ -158,6 +161,7 @@
 				B595F06F212D245D00248A71 /* ViewController.swift in Sources */,
 				B595F06D212D245D00248A71 /* AppDelegate.swift in Sources */,
 				9AB307C024F26CBF008B0135 /* Subfeature1.swift in Sources */,
+				9AB307C224F272FC008B0135 /* feature2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
