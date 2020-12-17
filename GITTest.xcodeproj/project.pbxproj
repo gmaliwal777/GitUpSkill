@@ -13,6 +13,14 @@
 		9AB307BE24F26891008B0135 /* Feature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307BD24F26891008B0135 /* Feature1.swift */; };
 		9AB307C024F26CBF008B0135 /* Subfeature1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307BF24F26CBF008B0135 /* Subfeature1.swift */; };
 		9AB307C224F272FC008B0135 /* feature2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307C124F272FC008B0135 /* feature2.swift */; };
+		9AB307C424F27E54008B0135 /* Empty.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9AB307C324F27E54008B0135 /* Empty.xib */; };
+		9AB307D124F282DA008B0135 /* LysnHeightProportionateUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307C724F282D9008B0135 /* LysnHeightProportionateUIButton.swift */; };
+		9AB307D224F282DA008B0135 /* LysnWidthProportionateUIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307C824F282D9008B0135 /* LysnWidthProportionateUIButton.swift */; };
+		9AB307D324F282DA008B0135 /* LysnHeightAdaptiveUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307CA24F282D9008B0135 /* LysnHeightAdaptiveUILabel.swift */; };
+		9AB307D424F282DA008B0135 /* LysnHeightProportionateUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307CB24F282D9008B0135 /* LysnHeightProportionateUILabel.swift */; };
+		9AB307D524F282DA008B0135 /* LysnWidthProportionateUILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307CC24F282D9008B0135 /* LysnWidthProportionateUILabel.swift */; };
+		9AB307D624F282DA008B0135 /* LysnHeightProportionateUITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307CE24F282D9008B0135 /* LysnHeightProportionateUITextField.swift */; };
+		9AB307D724F282DA008B0135 /* LysnHeightProportionateUITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AB307D024F282D9008B0135 /* LysnHeightProportionateUITextView.swift */; };
 		B595F06D212D245D00248A71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B595F06C212D245D00248A71 /* AppDelegate.swift */; };
 		B595F06F212D245D00248A71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B595F06E212D245D00248A71 /* ViewController.swift */; };
 		B595F072212D245D00248A71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B595F070212D245D00248A71 /* Main.storyboard */; };
@@ -27,6 +35,14 @@
 		9AB307BD24F26891008B0135 /* Feature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Feature1.swift; sourceTree = "<group>"; };
 		9AB307BF24F26CBF008B0135 /* Subfeature1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subfeature1.swift; sourceTree = "<group>"; };
 		9AB307C124F272FC008B0135 /* feature2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feature2.swift; sourceTree = "<group>"; };
+		9AB307C324F27E54008B0135 /* Empty.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Empty.xib; sourceTree = "<group>"; };
+		9AB307C724F282D9008B0135 /* LysnHeightProportionateUIButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnHeightProportionateUIButton.swift; sourceTree = "<group>"; };
+		9AB307C824F282D9008B0135 /* LysnWidthProportionateUIButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnWidthProportionateUIButton.swift; sourceTree = "<group>"; };
+		9AB307CA24F282D9008B0135 /* LysnHeightAdaptiveUILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnHeightAdaptiveUILabel.swift; sourceTree = "<group>"; };
+		9AB307CB24F282D9008B0135 /* LysnHeightProportionateUILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnHeightProportionateUILabel.swift; sourceTree = "<group>"; };
+		9AB307CC24F282D9008B0135 /* LysnWidthProportionateUILabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnWidthProportionateUILabel.swift; sourceTree = "<group>"; };
+		9AB307CE24F282D9008B0135 /* LysnHeightProportionateUITextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnHeightProportionateUITextField.swift; sourceTree = "<group>"; };
+		9AB307D024F282D9008B0135 /* LysnHeightProportionateUITextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LysnHeightProportionateUITextView.swift; sourceTree = "<group>"; };
 		B595F069212D245D00248A71 /* GITTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GITTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B595F06C212D245D00248A71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B595F06E212D245D00248A71 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +63,52 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9AB307C524F282D9008B0135 /* IBDesignable */ = {
+			isa = PBXGroup;
+			children = (
+				9AB307C624F282D9008B0135 /* UIButton */,
+				9AB307C924F282D9008B0135 /* UILabel */,
+				9AB307CD24F282D9008B0135 /* UITextField */,
+				9AB307CF24F282D9008B0135 /* UITextView */,
+			);
+			path = IBDesignable;
+			sourceTree = "<group>";
+		};
+		9AB307C624F282D9008B0135 /* UIButton */ = {
+			isa = PBXGroup;
+			children = (
+				9AB307C724F282D9008B0135 /* LysnHeightProportionateUIButton.swift */,
+				9AB307C824F282D9008B0135 /* LysnWidthProportionateUIButton.swift */,
+			);
+			path = UIButton;
+			sourceTree = "<group>";
+		};
+		9AB307C924F282D9008B0135 /* UILabel */ = {
+			isa = PBXGroup;
+			children = (
+				9AB307CA24F282D9008B0135 /* LysnHeightAdaptiveUILabel.swift */,
+				9AB307CB24F282D9008B0135 /* LysnHeightProportionateUILabel.swift */,
+				9AB307CC24F282D9008B0135 /* LysnWidthProportionateUILabel.swift */,
+			);
+			path = UILabel;
+			sourceTree = "<group>";
+		};
+		9AB307CD24F282D9008B0135 /* UITextField */ = {
+			isa = PBXGroup;
+			children = (
+				9AB307CE24F282D9008B0135 /* LysnHeightProportionateUITextField.swift */,
+			);
+			path = UITextField;
+			sourceTree = "<group>";
+		};
+		9AB307CF24F282D9008B0135 /* UITextView */ = {
+			isa = PBXGroup;
+			children = (
+				9AB307D024F282D9008B0135 /* LysnHeightProportionateUITextView.swift */,
+			);
+			path = UITextView;
+			sourceTree = "<group>";
+		};
 		B595F060212D245D00248A71 = {
 			isa = PBXGroup;
 			children = (
@@ -66,6 +128,7 @@
 		B595F06B212D245D00248A71 /* GITTest */ = {
 			isa = PBXGroup;
 			children = (
+				9AB307C524F282D9008B0135 /* IBDesignable */,
 				B595F06C212D245D00248A71 /* AppDelegate.swift */,
 				B595F06E212D245D00248A71 /* ViewController.swift */,
 				9A0D2B5624C4A768002A22DB /* FirstViewController.swift */,
@@ -77,6 +140,7 @@
 				B595F070212D245D00248A71 /* Main.storyboard */,
 				B595F073212D245D00248A71 /* Assets.xcassets */,
 				B595F075212D245D00248A71 /* LaunchScreen.storyboard */,
+				9AB307C324F27E54008B0135 /* Empty.xib */,
 				B595F078212D245D00248A71 /* Info.plist */,
 			);
 			path = GITTest;
@@ -142,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B595F077212D245D00248A71 /* LaunchScreen.storyboard in Resources */,
+				9AB307C424F27E54008B0135 /* Empty.xib in Resources */,
 				B595F074212D245D00248A71 /* Assets.xcassets in Resources */,
 				B595F072212D245D00248A71 /* Main.storyboard in Resources */,
 			);
@@ -155,13 +220,20 @@
 			buildActionMask = 2147483647;
 			files = (
 				9AB307BE24F26891008B0135 /* Feature1.swift in Sources */,
+				9AB307D524F282DA008B0135 /* LysnWidthProportionateUILabel.swift in Sources */,
 				9A0D2B5924C4A791002A22DB /* SecondViewController.swift in Sources */,
 				9A0D2B5724C4A768002A22DB /* FirstViewController.swift in Sources */,
 				9A0D2B5B24C4A86A002A22DB /* ThirdViewController.swift in Sources */,
 				B595F06F212D245D00248A71 /* ViewController.swift in Sources */,
 				B595F06D212D245D00248A71 /* AppDelegate.swift in Sources */,
+				9AB307D324F282DA008B0135 /* LysnHeightAdaptiveUILabel.swift in Sources */,
 				9AB307C024F26CBF008B0135 /* Subfeature1.swift in Sources */,
+				9AB307D724F282DA008B0135 /* LysnHeightProportionateUITextView.swift in Sources */,
+				9AB307D224F282DA008B0135 /* LysnWidthProportionateUIButton.swift in Sources */,
 				9AB307C224F272FC008B0135 /* feature2.swift in Sources */,
+				9AB307D424F282DA008B0135 /* LysnHeightProportionateUILabel.swift in Sources */,
+				9AB307D124F282DA008B0135 /* LysnHeightProportionateUIButton.swift in Sources */,
+				9AB307D624F282DA008B0135 /* LysnHeightProportionateUITextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
