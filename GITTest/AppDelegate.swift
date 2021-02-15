@@ -9,7 +9,7 @@
 // It is station-02
 
 
-
+// Comment in the Appdelegate
 
 import UIKit
 @UIApplicationMain
