@@ -11,6 +11,8 @@ import UIKit
 // Comment 1
 
 // Comment 2
+
+// Commit 3
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
