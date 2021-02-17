@@ -8,6 +8,9 @@
 
 import UIKit
 
+// Comment 1
+
+// Comment 2
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
